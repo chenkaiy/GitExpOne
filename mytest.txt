@@ -7,3 +7,4 @@ master line 5 change
 issuebranch line 5 change
 
 rebase test
+rebase test2
